@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohan
 
-### 💻 Developer • 🚀 Builder • 🧠 Problem Solver
+### 💻 Developer • 🚀 Builder •
 
 I love building useful projects, learning new technologies, and turning ideas into real-world applications.
 
@@ -45,14 +45,6 @@ I love building useful projects, learning new technologies, and turning ideas in
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
 </p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel,aws" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
