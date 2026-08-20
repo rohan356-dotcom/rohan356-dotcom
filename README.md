@@ -1,33 +1,205 @@
-<h1 align="center">Hi 👋, I'm Rohan Bahekar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# 👋 Hi, I'm Rohan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan356-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="rohan356-dotcom" /> </p>
+### 💻 Developer • 🚀 Builder • 🧠 Problem Solver
 
-- 🔭 I’m currently working on [MEREN Stack Dev](https://github.com/rohan356-dotcom/MERN-Stack)
+I love building useful projects, learning new technologies, and turning ideas into real-world applications.
 
-- 🌱 I’m currently learning **MERN Stack,REST API& MongoDB**
-
-- 👯 I’m looking to collaborate on [MEREN Stack& Full stack web projects](https://github.com/rohan356-dotcom/MERN-Stack)
-
-- 🤝 I’m looking for help with [React.js,Node.js&Backend devlopment](https://github.com/rohan356-dotcom/MERN-Stack)
-
-- 👨‍💻 All of my projects are available at [https://github.com/rohan356-dotcom/portfolio](https://github.com/rohan356-dotcom/portfolio)
-
-- 💬 Ask me about **MongoDB,Express.js,React.js,Node.js,HTML,CSS & JavaScript**
-
-- 📫 How to reach me **bahekarrohan356@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan bahekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan bahekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohanganeshbahekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanganeshbahekar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rohan356-dotcom">
+    <img src="https://img.shields.io/github/followers/rohan356-dotcom?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/rohan356-dotcom?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rohan356-dotcom?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan356-dotcom&show_icons=true&locale=en&layout=compact" alt="rohan356-dotcom" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan356-dotcom&show_icons=true&locale=en" alt="rohan356-dotcom" /></p>
+- 🔭 Currently working on **interesting projects & ideas**
+- 🌱 Continuously learning and improving my development skills
+- 💡 Interested in **Software Development, Web Development & Technology**
+- 🚀 I enjoy building projects that solve real problems
+- 📚 Always exploring new tools and technologies
+- ⚡ Goal: **Build → Learn → Improve → Repeat**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan356-dotcom&" alt="rohan356-dotcom" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel,aws" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+> ⭐ Add your best repositories here.
+
+### 🔥 Project One
+
+**Your project name**
+
+Short description of what the project does and what problem it solves.
+
+`React` `Node.js` `MongoDB`
+
+[View Repository](https://github.com/rohan356-dotcom)
+
+---
+
+### ⚡ Project Two
+
+**Your project name**
+
+Short description of your project.
+
+`JavaScript` `API` `Database`
+
+[View Repository](https://github.com/rohan356-dotcom)
+
+---
+
+### 💡 Project Three
+
+**Your project name**
+
+Short description of your project.
+
+`Python` `AI` `API`
+
+[View Repository](https://github.com/rohan356-dotcom)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohan356-dotcom&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan356-dotcom&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rohan356-dotcom&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohan356-dotcom&theme=tokyo-night&hide_border=true&area=true"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rohan356-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+  />
+</p>
+
+---
+
+# 📈 GitHub Contribution Overview
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohan356-dotcom&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=tokyonight"
+  />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rohan356-dotcom/rohan356-dotcom/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 📌 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/rohan356-dotcom">
+    <img src="https://img.shields.io/badge/GitHub-rohan356--dotcom-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/rohan356-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your links -->
+<!--
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+-->
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you find my projects interesting, consider giving them a star!</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
